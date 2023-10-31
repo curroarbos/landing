@@ -1,0 +1,25 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #1d3557;
+}
+
+.footer a {
+  font-size: 30px;
+  color:  #e63946;
+  transition: 0.3s ease;
+  opacity: .6;
+}
+
+.footer a:hover{
+  opacity: 1;
+}
+
+.footer p {
+  color: #f1faee;
+  opacity: .6;
+}
+
+.footer .fas {
+  color: #e63946;
+}
